@@ -14,5 +14,9 @@
   {
     "version": "3.0.0",
     "firmwareAssetUrl": "https://github.com/langmuirsystems/grblhal-ls-laser-public/releases/download/v3.0.0/grblHAL_LS_Laser-v3.0.0.hex"
+  },
+  {
+    "version": "4.0.0",
+    "firmwareAssetUrl": "https://github.com/langmuirsystems/grblhal-ls-laser-public/releases/download/v4.0.0/grblHAL_LS_Laser-v4.0.0.hex"
   }
 ]
