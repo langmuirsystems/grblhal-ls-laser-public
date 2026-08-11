@@ -1,1 +1,1 @@
-1.0.0: Switch MCB firmware welcome message to semantic Langmuir firmware version.
+4.0.0: Self-healing LCB feed hold handshake, startup brake output on GPIO 15 (LOW for 5 s on power-up, then HIGH), and jog soft-limit clamping enabled by default ($40=1).
